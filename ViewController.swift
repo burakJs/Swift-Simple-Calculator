@@ -20,9 +20,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
     }
-
-
-    
     
     @IBAction func add(_ sender: Any) {
         saveValue()
